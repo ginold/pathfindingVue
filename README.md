@@ -5,7 +5,7 @@ WORK IN PROGRESS
 Dijkstra and A-* algorithm visualizer in Vue. 
 
 ## Screenshots
- <img src="screenshots/1.png" alt="alt text" width="400" >
+ <img src="screenshots/1.png"  >
 
 ## Project setup
 ```
